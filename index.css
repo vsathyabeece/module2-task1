@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+}
+
+.box-part{
+    background-color:white;
+padding:30px 0px;
+margin:30px 0px;
+}
+
+label{
+    width:180px;
+    display: inline-block;
+    margin:0.2cm;
+    font-size:16px;
+    font-weight: bold;
+}
+input{
+    padding: 4px;
+    margin:5px;
+    font-size:16px;
+    width: 7cm;
+}
+input#submit{
+    margin-top: 30px;
+    color:white;
+    padding: 40px;
+}
+.oval {
+    background-color:white;
+    padding-top: 60px;
+    margin: 0px auto;
+        width: 70px;
+        height: 200px;
+        border-radius: 50%;
+     border: 1px solid #000000;
+    
+  }
+  .inner-left{
+    max-width:400px;
+    height:200px;
+    border:1px solid black;
+  }
